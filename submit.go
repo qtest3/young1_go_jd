@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cdle/sillyGirl/core"
-	"github.com/cdle/sillyGirl/develop/qinglong"
+	"github.com/qtest3/young1_go_silly/core"
+	"github.com/qtest3/young1_go_ql"
 )
 
 var pinQQ = core.NewBucket("pinQQ")

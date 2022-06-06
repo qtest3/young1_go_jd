@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/cdle/sillyGirl/core"
-	"github.com/cdle/sillyGirl/develop/qinglong"
+	"github.com/qtest3/young1_go_silly/core"
+	"github.com/qtest3/young1_go_ql"
 )
 
 func initTyt() {

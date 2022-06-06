@@ -10,8 +10,8 @@ import (
 
 	"github.com/beego/beego/v2/client/httplib"
 	"github.com/buger/jsonparser"
-	"github.com/cdle/sillyGirl/core"
-	"github.com/cdle/sillyGirl/develop/qinglong"
+	"github.com/qtest3/young1_go_silly/core"
+	"github.com/qtest3/young1_go_ql"
 )
 
 var jd_cookie = core.NewBucket("jd_cookie")
